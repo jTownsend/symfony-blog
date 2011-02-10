@@ -1,0 +1,30 @@
+[submodule "vendor/symfony"]
+	path = vendor/symfony
+	url = git://github.com/fabpot/symfony.git
+[submodule "vendor/mongodb-odm"]
+	path = vendor/mongodb-odm
+	url = git://github.com/doctrine/mongodb-odm
+[submodule "vendor/zend"]
+	path = vendor/zend
+	url = git://github.com/zendframework/zf2.git
+[submodule "vendor/ZendPaginatorAdapter"]
+	path = vendor/ZendPaginatorAdapter
+	url = git://github.com/ornicar/ZendPaginatorAdapter.git
+[submodule "src/Bundle/ApcBundle"]
+	path = src/Bundle/ApcBundle
+	url = git://github.com/ornicar/ApcBundle.git
+[submodule "Twig"]
+	path = Twig
+	url = git://github.com/fabpot/Twig.git
+[submodule "vendor/Doctrine2-Sluggable-Functional-Behavior"]
+	path = vendor/Doctrine2-Sluggable-Functional-Behavior
+	url = git://github.com/ornicar/Doctrine2-Sluggable-Functional-Behavior.git
+[submodule "vendor/twig"]
+	path = vendor/twig
+	url = git://github.com/fabpot/Twig.git
+[submodule "src/FOS/UserBundle"]
+	path = src/FOS/UserBundle
+	url = git://github.com/FriendsOfSymfony/UserBundle.git
+[submodule "src/Sonata/BaseApplicationBundle"]
+	path = src/Sonata/BaseApplicationBundle
+	url = git://github.com/sonata-project/BaseApplicationBundle.git
